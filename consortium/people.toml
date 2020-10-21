@@ -1,0 +1,24 @@
+[[team]]
+name = "Radovan Bast"
+picture = "bast.jpg"
+homepage = "https://bast.fr"
+text = "Some short text about my involvement"
+
+[[team]]
+name = "Jose Benito Gonzalez Lopez"
+picture = "jose-benito-gonzalez.jpg"
+homepage = "http://twitter.com/jotabe"
+text = "Jose leads a section at CERN that is responsible for Zenodo and other software projets."
+
+[[team]]
+name = "Carlos Martinez-Ortiz"
+picture = "carlos-martinez.jpg"
+homepage = "https://www.esciencecenter.nl/team/dr-carlos-martinez-ortiz/"
+text = "Carlos is community manager & technolgy lead at the Netherlands eScience Center."
+
+# other persons can be added like this:
+#[[team]]
+#name = "Radovan Bast"
+#picture = "bast.jpg"
+#homepage = "https://bast.fr"
+#text = "Some short text about my involvement"
